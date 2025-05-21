@@ -1,0 +1,5 @@
+.idea
+.dockerignore
+requirements.txt
+__pycache__/
+tasks.db
